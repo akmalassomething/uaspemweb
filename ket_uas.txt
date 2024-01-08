@@ -1,0 +1,3 @@
+nim : 22040036
+kelas 3b
+nama M.Arganadi Akmal
